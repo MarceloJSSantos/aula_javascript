@@ -154,5 +154,5 @@ function load(){
 }
 
 function funcChange(elemento){
-    console.log(elemento.value);git
+    console.log(elemento.value);
 }
